@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentation officielle de ImageAI en Français !
+Documentation officielle de ImageAI en Fran√ßais !
 ===========================================
-**ImageAI** est une bibliothèque python développée pour permettre aux développeurs, chercheurs, étudiants de construire des applications et des systèmes qui intègrent l’apprentissage profond et la vision assistée par ordinateur en utilisant simplement quelques lignes de code. 
-Cette documentation est fournie pour donner assez de détails sur toutes classes et fonctions disponibles dans **ImageAI**, couples a un certain nombre d’exemples de code. 
+**ImageAI** est une biblioth√®que python d√©velopp√©e pour permettre aux d√©veloppeurs, chercheurs, √©tudiants de construire des applications et des syst√®mes qui int√®grent l'apprentissage profond et la vision assist√©e par ordinateur en utilisant simplement quelques lignes de code. 
+Cette documentation est fournie pour donner assez de d√©tails sur toutes classes et fonctions disponibles dans **ImageAI**, couples a un certain nombre d'exemples de code. 
 
-**ImageAI** est un projet développé par `Moses Olafenwa <https://moses.specpal.science/>`_ et `John Olafenwa <https://john.specpal.science/>`_, the `AI Commons <https://commons.specpal.science/>`_ team. 
+**ImageAI** est un projet d√©velopp√© par `Moses Olafenwa <https://moses.specpal.science/>`_ et `John Olafenwa <https://john.specpal.science/>`_, the `AI Commons <https://commons.specpal.science/>`_ team. 
 
 
 Le dossier official GitHub de **ImageAI** est `https://github.com/OlafenwaMoses/ImageAI <https://github.com/OlafenwaMoses/ImageAI />`_
@@ -25,7 +25,7 @@ Le dossier official GitHub de **ImageAI** est `https://github.com/OlafenwaMoses/
 
 Installation de ImageAI
 ===================
-**ImageAI** nécessite que vous ayez Python 3.5.1 ou supérieur installe ainsi que d’autres librairies et bibliothèques python. Avant de procéder a l’installation de **ImageAI** vous devez installer les éléments suivants :  
+**ImageAI** n≈Ωcessite que vous ayez Python 3.5.1 ou sup≈Ωrieur installe ainsi que d√ïautres librairies et biblioth¬èques python. Avant de proc≈Ωder a l√ïinstallation de **ImageAI** vous devez installer les ≈Ωl≈Ωments suivants√ä:  
 
 * **Python** 3.5.1 or superieur,  `telecharger Python <https://www.python.org/downloads/>`_
 * **pip3** ,  ` telecharger PyPi <https://pypi.python.org/pypi/pip/>`_
@@ -54,14 +54,14 @@ Installation de ImageAI
 
     pip3 install keras
 
-Une fois que vous avez installé tous ces packages sur votre ordinateur, vous pouvez installer **ImageAI** en utilisant la commande pip ci-dessous.
+Une fois que vous avez install≈Ω tous ces packages sur votre ordinateur, vous pouvez installer **ImageAI** en utilisant la commande pip ci-dessous.
 Installation de **ImageAI** ::
 
     pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
 
 
-Une fois que **ImageAI** est installé, vous pouvez en quelques lignes de code accomplir les tâches de vision assistée par ordinateur les plus puissantes comme vous pouvez le voir ci-dessous.  
-**Reconnaissance d’Image**
+Une fois que **ImageAI** est install≈Ω, vous pouvez en quelques lignes de code accomplir les t‚Ä∞ches de vision assist≈Ωe par ordinateur les plus puissantes comme vous pouvez le voir ci-dessous.  
+**Reconnaissance d√ïImage**
 
 *Retrouver tous les codes et la documentation via les liens dans la section en bas de page.*
 
@@ -75,7 +75,7 @@ Une fois que **ImageAI** est installé, vous pouvez en quelques lignes de code ac
 * minivan : 1.7487050965428352
 
 
-**Détection d’objets sur Image**
+**D≈Ωtection d√ïobjets sur Image**
 
 *Retrouver tous les codes et la documentation via les liens dans la section en bas de page.*
 
@@ -84,7 +84,7 @@ Une fois que **ImageAI** est installé, vous pouvez en quelques lignes de code ac
 
 
 
-**Détection d’objets sur Vidéo**
+**D≈Ωtection d√ïobjets sur Vid≈Ωo**
 
 *Retrouver tous les codes et la documentation via les liens dans la section en bas de page.*
 
@@ -92,7 +92,7 @@ Une fois que **ImageAI** est installé, vous pouvez en quelques lignes de code ac
    :align:  center
 
 
-**Analyse de détection Vidéo**
+**Analyse de d≈Ωtection Vid≈Ωo**
 
 *Retrouver tous les codes et la documentation via les liens dans la section en bas de page.*
 
@@ -100,7 +100,7 @@ Une fois que **ImageAI** est installé, vous pouvez en quelques lignes de code ac
    :align:  center
 
 
-**Inférence et entrainement personnalise pour reconnaissance d’images**
+**Inf≈Ωrence et entrainement personnalise pour reconnaissance d√ïimages**
 
 *Retrouver tous les codes et la documentation via les liens dans la section en bas de page.*
 
@@ -108,7 +108,7 @@ Une fois que **ImageAI** est installé, vous pouvez en quelques lignes de code ac
    :align:  center
 
 
-Suivez les liens dans la section contenu ci-dessous pour retrouver tous les exemples et la documentation complète des classes et fonctions disponibles. 
+Suivez les liens dans la section contenu ci-dessous pour retrouver tous les exemples et la documentation compl¬ète des classes et fonctions disponibles. 
 
 
 
